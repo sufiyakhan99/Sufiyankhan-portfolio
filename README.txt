@@ -1,0 +1,1 @@
+React source for Sufiyan Khan premium UAE portfolio. Put 27321.jpg and Sufiyan_Khan_UAE_CV.pdf in public/ when using it in Vite/React.
